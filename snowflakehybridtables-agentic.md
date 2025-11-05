@@ -506,7 +506,7 @@ Start with a pilot project, consolidate operational workloads, and scale to ente
 
 ## Let's Discuss
 
-How can we leverage Snowflake Hybrid Tables and Agentic AI to transform your organization's data strategy? <mailto:rayudu6@gmail.com?Subject=How-to-leverage-Snowflake?>
+How can we leverage Snowflake Hybrid Tables and Agentic AI to transform your organization's data strategy? *[rayudu6@gmail.com](mailto:rayudu6@gmail.com?Subject=How-to-leverage-Snowflake?)*
 
 ### Technical Deep-Dive
 Architecture, implementation, integration
