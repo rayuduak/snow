@@ -12,7 +12,7 @@ How Snowflake's Hybrid Tables power real-time Agentic AI applications with low-l
 
 ---
 
-# Slide 1: Hybrid Tables Overview
+# 1: Hybrid Tables Overview
 
 ## What Are Hybrid Tables?
 
@@ -34,7 +34,7 @@ How Snowflake's Hybrid Tables power real-time Agentic AI applications with low-l
 
 ---
 
-# Slide 2: Architecture & Design
+# 2: Architecture & Design
 
 ## Hybrid Tables Architecture
 
@@ -61,7 +61,7 @@ Integrated with traditional Snowflake tables for analytics
 
 ---
 
-# Slide 3: The Problem Statement
+# 3: The Problem Statement
 
 ## Challenges Before Hybrid Tables
 
@@ -83,7 +83,7 @@ Agentic AI systems require sub-second access to context, embeddings, and user st
 
 ---
 
-# Slide 4: Solution - What Hybrid Tables Solve
+# 4: Solution - What Hybrid Tables Solve
 
 ## Business Value Delivered
 
@@ -110,7 +110,7 @@ Single security, compliance, and access control model
 
 ---
 
-# Slide 5: Unified Enterprise Intelligence Layer
+# 5: Unified Enterprise Intelligence Layer
 
 ## Complete Architecture Stack
 
@@ -140,7 +140,7 @@ Enterprise data warehouse, historical analytics, reporting
 
 ---
 
-# Slide 6: Cortex AI Services Integration
+# 6: Cortex AI Services Integration
 
 ## How Cortex Agents Use Hybrid Tables
 
@@ -165,7 +165,7 @@ Enterprise data warehouse, historical analytics, reporting
 
 ---
 
-# Slide 7: Reference Architecture - AI Agent with RAG
+# 7: Reference Architecture - AI Agent with RAG
 
 ## End-to-End Agentic AI Implementation
 
@@ -207,7 +207,7 @@ WHERE user_id = 'U123';
 
 ---
 
-# Slide 8: Sample Hybrid Table Schemas
+# 8: Sample Hybrid Table Schemas
 
 ## Practical Examples for Agentic AI
 
@@ -254,7 +254,7 @@ CREATE HYBRID TABLE agent_memory (
 
 ---
 
-# Slide 9: Sample Data - Embeddings Table
+# 9: Sample Data - Embeddings Table
 
 ## Example Records
 
@@ -284,7 +284,7 @@ LIMIT 5;
 
 ---
 
-# Slide 10: Performance Comparison
+# 10: Performance Comparison
 
 ## Latency Comparison: Hybrid vs Standard Tables
 
@@ -313,7 +313,7 @@ Faster context retrieval = more relevant AI responses
 
 ---
 
-# Slide 11: Implementation Roadmap
+# 11: Implementation Roadmap
 
 ## Phased Approach to Enterprise Deployment
 
@@ -343,7 +343,7 @@ Faster context retrieval = more relevant AI responses
 
 ---
 
-# Slide 12: Strategic Business Impact
+# 12: Strategic Business Impact
 
 ## Quantifiable Value Proposition
 
@@ -373,7 +373,7 @@ Unified SQL interface accelerates AI development
 
 ---
 
-# Slide 13: Enterprise Security & Governance
+# 13: Enterprise Security & Governance
 
 ## Unified Control Plane
 
@@ -420,7 +420,7 @@ CREATE HYBRID TABLE ai_audit_log (
 
 ---
 
-# Slide 14: Competitive Positioning
+# 14: Competitive Positioning
 
 ## Why This Matters Now
 
@@ -454,7 +454,7 @@ Unified governance builds stakeholder confidence
 
 ---
 
-# Slide 15: Executive Recommendations
+# 15: Executive Recommendations
 
 ## Strategic Action Plan
 
@@ -478,7 +478,7 @@ Unified governance builds stakeholder confidence
 
 ---
 
-# Slide 16: Executive Summary
+# 16: Executive Summary
 
 ## Key Takeaways
 
@@ -506,7 +506,7 @@ Start with a pilot project, consolidate operational workloads, and scale to ente
 
 ## Let's Discuss
 
-How can we leverage Snowflake Hybrid Tables and Agentic AI to transform your organization's data strategy?
+How can we leverage Snowflake Hybrid Tables and Agentic AI to transform your organization's data strategy? <mailto:rayudu6@gmail.com?Subject=How-to-leverage-Snowflake?>
 
 ### Technical Deep-Dive
 Architecture, implementation, integration
