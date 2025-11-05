@@ -166,7 +166,7 @@ Enterprise data warehouse, historical analytics, reporting
 ---
 
 # 7: Reference Architecture - AI Agent with RAG
-
+![Architecture](https://github.com/rayuduak/snow/blob/main/embedding_pipeline_arch.png)
 ## End-to-End Agentic AI Implementation
 
 **User Query:** "What were our Q4 sales?"
